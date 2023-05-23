@@ -1,6 +1,5 @@
-This repository contains code for the paper 
-Salomone R., Quiroz, M., Kohn, R., Villani, M., and Tran, M.N. (2020), *Spectral Subsampling MCMC for  Stationary Time Series*,  Proceedings of the International Conference on Machine Learning (ICML) 2020.  
-
+# Spectral Subsampling MCMC for Stationary Time Series (ICML,2020) 
+This repository contains code for the paper Salomone R., Quiroz, M., Kohn, R., Villani, M., and Tran, M.N. (2020), *Spectral Subsampling MCMC for  Stationary Time Series*, Proceedings of the International Conference on Machine Learning (ICML) 2020.  
 Note that code was originally available as part of the ICML supplementary material, but the link on the ICML website is no longer functioning. 
 
 The main program to execute is `SpectralSubsamplingMCMC.py`. The user-specified settings should be as in the paper. For a given data_set_name (corresponds to one model),
